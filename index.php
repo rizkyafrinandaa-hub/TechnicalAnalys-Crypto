@@ -1,5 +1,5 @@
 <?php
-// index.php - Cross-X Pro Trading Platform with Autocomplete Search
+
 header('Content-Type: text/html; charset=utf-8');
 ?>
 <!DOCTYPE html>
@@ -7,7 +7,7 @@ header('Content-Type: text/html; charset=utf-8');
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cross-X Pro Trading Platform</title>
+    <title> Trading Platform</title>
     <style>
         * {
             margin: 0;
@@ -422,7 +422,7 @@ header('Content-Type: text/html; charset=utf-8');
         <div class="header">
             <h1>
                 <span class="status-indicator"></span>
-                📈 Cross-X Pro Trading
+                📈 Pro Trading
             </h1>
             <div class="controls">
                 <div class="control-group">
